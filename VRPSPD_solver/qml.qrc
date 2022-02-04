@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>QML/GlobalValues.qml</file>
+        <file>QML/HomeScreen.qml</file>
+        <file>QML/HeadingText.qml</file>
+        <file>QML/ClientListCard.qml</file>
+        <file>QML/BaseText.qml</file>
+        <file>QML/FindBestPathDialog.qml</file>
+    </qresource>
+</RCC>
